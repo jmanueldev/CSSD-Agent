@@ -1,1 +1,8 @@
+agent:
+  temperature: 0
 
+buffer:
+  size: 100
+
+temporal:
+  variants: 3
