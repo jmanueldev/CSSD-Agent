@@ -1,0 +1,10 @@
+---
+
+## **requirements.txt**
+
+```txt id="reqs"
+langchain
+openai
+pydantic
+networkx
+pyyaml
