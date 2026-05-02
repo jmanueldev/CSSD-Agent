@@ -1,0 +1,11 @@
+[project]
+name = "cssd-agent"
+version = "0.1.0"
+description = "Chrono-Semantic Self-Distillation prototype"
+dependencies = [
+    "langchain",
+    "openai",
+    "pydantic",
+    "networkx",
+    "pyyaml"
+]
